@@ -31,7 +31,9 @@
     --footer-padding: 5rem 0 1rem;
 }
 
-*, *::after, *::before {
+*,
+*::after,
+*::before {
     box-sizing: border-box;
 }
 
